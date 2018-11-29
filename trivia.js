@@ -316,9 +316,9 @@ var triviaQuestions = [
     answer: "Chandler"
   },
   { //64
-    question: "",
-    possibleAnswers: ["", "", ""],
-    answer: ""
+    question: "Who had a flock of seagulls hairstyle in college?",
+    possibleAnswers: ["Ross", "Monica", "Chandler"],
+    answer: "Chandler"
   },
   { //65
     question: "Who left Chandler stranded in a restaurant restroom wearing only a pink thong?",
@@ -343,7 +343,7 @@ var triviaQuestions = [
   { //69
     question: "What two presents does phoebe buy joey to make Rachel want to move out ?",
     possibleAnswers: ["Bird, Cat", "Drums, Flute", "Drums, Tarantula"],
-    answer: ""
+    answer: "Drums, Tarantula"
   },
   { //70
     question: "What did Gunther dress up as in Monica and Chandler's Halloween party ?",
@@ -366,29 +366,29 @@ var triviaQuestions = [
     answer: "Elle MacPherson"
   },
   { //74
-    question: "",
-    possibleAnswers: ["", "", ""],
-    answer: ""
+    question: "Who’s toe was severed?",
+    possibleAnswers: ["Chandler", "Ross", "Joey"],
+    answer: "Chandler"
   },
   { //75
-    question: "",
-    possibleAnswers: ["", "", ""],
-    answer: ""
+    question: "Who said, 'I've always found public men's rooms to be quite sexy.'",
+    possibleAnswers: ["Rachel", "Monica", "Pheobe"],
+    answer: "Monica"
   },
   { //76
-    question: "",
-    possibleAnswers: ["", "", ""],
-    answer: ""
+    question: "What is the name of Monica and Ross' cousin?",
+    possibleAnswers: ["Catherine", "Cathy", "Cassie"],
+    answer: "Cassie"
   },
   { //77
-    question: "",
-    possibleAnswers: ["", "", ""],
-    answer: ""
+    question: "Who got married in Vegas?",
+    possibleAnswers: ["Chandler & Monica", "Ross & Rachel", "Joey & Phoebe"],
+    answer: "Ross & Rachel"
   },
   { //78
-    question: "",
-    possibleAnswers: ["", "", ""],
-    answer: ""
+    question: "What is the 1st line ever said on Friends?",
+    possibleAnswers: ["There's nothin' 2 tell", "Hi you guys", "Oh my god!"],
+    answer: "There's nothin' 2 tell"
   },
   { //79
     question: "Which actress did Rachel kiss?",
@@ -396,8 +396,108 @@ var triviaQuestions = [
     answer: "Winona Ryder"
   },
   { //80
-    question: "",
-    possibleAnswers: ["", "", ""],
+    question: "Who said the 1st line on Friends?",
+    possibleAnswers: ["Ross", "Phoeve", "Monica"],
+    answer: "Monica"
+  },
+  { //81
+    question: "Monica said to Richard: 'I'm dating a man whose ______ I once peed in'",
+    possibleAnswers: ["Pool", "Bed", "Yard"],
+    answer: "Pool"
+  },
+  { //82
+    question: "What is the name of the copy store?",
+    possibleAnswers: ["Brandy", "Chloe", "Linda"],
+    answer: "Chloe"
+  },
+  { //83
+    question: "What was Rachel's bra size?",
+    possibleAnswers: ["32C", "34B", "34C"],
+    answer: "32C"
+  },
+  { //84
+    question: "What costume did Emma wear to a beauty pageant on Thanksgiving?",
+    possibleAnswers: ["Fairy Costume", "Princess Costume", "Cowgirl Costume"],
+    answer: "Cowgirl Costume"
+  },
+  { //85
+    question: "Who said, 'Chandler entered a Vanilla Ice look-alike contest and won!'",
+    possibleAnswers: ["Ross", "Joey", "Monica"],
     answer: ""
+  },
+  { //86
+    question: "Which cast member did Ross talk to on the phone when he couldn’t get his leather pants back on?",
+    possibleAnswers: ["Chandler", "Joey", "Monica"],
+    answer: "Joey"
+  },
+  { //87
+    question: "Which “Friends” star was the only one to kiss all of the other cast members during the course of the ten seasons?",
+    possibleAnswers: ["Rachel", "Phoebe", "Joey"],
+    answer: "Rachel"
+  },
+  { //88
+    question: "What was Ross’ middle name?",
+    possibleAnswers: ["Muriel", "Eustace", "He doesn't have one"],
+    answer: "Eustace"
+  },
+  { //89
+    question: "Which characters were on the socks that Janice bought Chandler right before he broke up with her?",
+    possibleAnswers: ["Beavis and Butt-Head", "Tweety And Sylvester", "Rocky and Bullwinkle"],
+    answer: "Rocky and Bullwinkle"
+  },
+  { //90
+    question: "What did Joey buy Chandler as a token of their friendship, which Chandler hated?",
+    possibleAnswers: ["A bracelet", "A duck", "A foosball table"],
+    answer: "A bracelet"
+  },
+  { //91
+    question: "What was the neckline on Monica’s wedding dres?",
+    possibleAnswers: ["Sweetheart", "V-neck", "Off-the-shoulder"],
+    answer: "V-neck"
+  },
+  { //92
+    question: "Who convinced Bonnie to shave her head again?",
+    possibleAnswers: ["Phoebe", "Chandler", "Rachel"],
+    answer: "Rachel"
+  },
+  { //93
+    question: "What is Joey's PIN number?",
+    possibleAnswers: ["5639", "1111", "1234"],
+    answer: "5639"
+  },
+  { //94
+    question: "Who said, 'On a scale from one to ten, ten being the dumbest a person can look, you are definitely nineteen.'",
+    possibleAnswers: ["Ross", "Monica", "Chandler"],
+    answer: "Chandler"
+  },
+  { //95
+    question: "Inspired by Chandler's mum, Rachel begins to write her own erotic novel. What was the title of this novel?",
+    possibleAnswers: ["A Woman Undone", "Wind Beneath Me", "A Woman's Right"],
+    answer: "A Woman Undone"
+  },
+  { //96
+    question: "Who is Paul?",
+    possibleAnswers: ["The Weeper", "The I Win Guy", "The Wine Guy"],
+    answer: "The Wine Guy"
+  },
+  { //97
+    question: "To whom did Rachel serve her last ever cup of coffee to as a waitress at Central Perk?",
+    possibleAnswers: ["Ross", "Chandler", "Joey"],
+    answer: "Chandler"
+  },
+  { //98
+    question: "When Phoebe agrees to have Frank Jr's babies, how many embryos does Frank suggest the doctors implant in Phoebe?",
+    possibleAnswers: ["200", "300", "100"],
+    answer: "200"
+  },
+  { //99
+    question: "What family heirloom was sent to Phoebe by her birth mother?",
+    possibleAnswers: ["Fur Coat", "Vintage Car", "Pocket Watch"],
+    answer: "Fur Coat"
+  },
+  { //100
+    question: "What was the last line said on Friends?",
+    possibleAnswers: ["This is so hard", "Sure... Where?", "By you guys"],
+    answer: "Sure... Where?"
   },
 ];
